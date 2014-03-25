@@ -1,0 +1,4 @@
+lilypond test.ly
+evince test.pdf &
+
+#aplay test.midi
