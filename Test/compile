@@ -1,3 +1,5 @@
+#!/bin/bash
+
 lilypond test.ly
 evince test.pdf &
 
