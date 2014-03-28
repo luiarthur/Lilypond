@@ -3,4 +3,4 @@
 lilypond turnOutTheStars.ly
 evince turnOutTheStars.pdf &
 
-#aplay test.midi
+#timidity test.midi
