@@ -11,6 +11,8 @@
   %\time 4/4     % Optional for Common Time
 
   <<
+  \tempo 4 = 90
+
   \chords{ 
     \set minorChordModifier = \markup {"-"}
 
@@ -47,5 +49,5 @@
   \midi { }
   \layout { }
 
-}    
+}
 
