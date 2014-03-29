@@ -1,0 +1,6 @@
+#!/bin/bash
+
+lilypond turnOutTheStars.ly
+evince turnOutTheStars.pdf &
+
+#timidity test.midi
