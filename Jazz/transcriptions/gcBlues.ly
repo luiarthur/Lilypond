@@ -1,3 +1,5 @@
+% Writing Functions in lilypond:
+% http://lilypond.org/doc/v2.16/Documentation/extending-big-page.html#scheme-variables
 % \version "2.16.1"
 \include "LilyJAZZ.ily"   % Jazz package
 
@@ -29,6 +31,7 @@
   \relative c' { 
     %\tempo 4 =130
     \jazzOn
+
     r2 \times2/3{d8 e g} \times2/3{<b e>8 <b e>8 r8}|
 
     \times2/3{<c e>8 <c e>8 r8} \times2/3{<cis e>8 <cis e>8 r8}
@@ -44,8 +47,8 @@
     <g bes>4 \acciaccatura aes16 <a c>4 <g bes>2 |
     r4 \acciaccatura{d'16 ees} <e g>8 \grace{d16 ees} <e g>8 ~ 
     <e g>4 \times 2/3{bes8 g e} |
-    <g bes>4 \acciaccatura aes16 <a c>4 <g bes>2 |
-    r2 \times 2/3{r4 c'8} \times 2/3{b4 a8} |
+    \acciaccatura{<bes ees>16} <b e g>4 <c f a>4 \acciaccatura{<bes ees>16} <b e g>4 r4| % Fix this line
+    r2 \times 2/3{r4 c''8} \times 2/3{b4 a8} |
     \break
 
     \times 2/3{bes4 aes8} \times 2/3{f4 des8} 
