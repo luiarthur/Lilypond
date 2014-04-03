@@ -20,7 +20,8 @@
 
     d2.:7 g,2.:7 |
     g,2.:7 | g,2.:7 | g,1:7 | g,1:7 |
-    c1:7 | c1:7 | g,1:7 | g,1:7 |
+    %g,1.:7 | g,1.:7 | g,1:7 | g,1:7 |
+    c1:7   | c1:7   | g,1:7 | g,1:7 |
     %c1:7 | c1:7 | g2:7 fis2:7 | f2:7 e2:7 |
     bes2:m7 ees,2:7 | a2:m7 d,2:7 | g2:7 e2:7 | a2:m7 d2:7 |
   }
@@ -29,6 +30,7 @@
     %\tempo 4 =130
     \jazzOn
     r2 \times2/3{d8 e g} \times2/3{<b e>8 <b e>8 r8}|
+
     \times2/3{<c e>8 <c e>8 r8} \times2/3{<cis e>8 <cis e>8 r8}
     \times2/3{<d e>8 <d e>8 r8} \times2/3{<cis e>8 c8 bes8}|
     g8 e16 r  g8 e16 r \acciaccatura a16 <bes d>4 r4|
