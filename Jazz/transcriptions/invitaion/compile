@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+if [$@ == ""]
+  then
+    lilypond *.ly
+    firefox *.pdf &
+  else
+    lilypond "$@".ly   
+    firefox "$@".pdf &
+fi
+
+#timidity "$@".midi
