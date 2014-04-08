@@ -41,10 +41,18 @@
 
     %\acciaccatura bes16 \times2/3{<b g'>4 g8} \times2/3{e4 d8}| 
     %\break
+    \times2/3{r4 d8} f16 ees d ees \times2/3{g4 b8} \times2/3{d4 ees8} 
+    \times2/3{d4 c8} \times2/3{b4 d8} \times2/3{f4 aes8} \times2/3{g4 d8}
+    \times2/3{d4 c8} \times2/3{d4 r8} r4 \times2/3{r4 d8} 
+    \times2/3{ees4 g,8} \times2/3{b4 d8} r4 \times2/3{r4 d8}
+    \times2/3{d4 c8} \times2/3{d4 f8} \times2/3{d4 c8} \times2/3{f4 c8}
+    \times2/3{d4 ees8} \times2/3{c4 d8} r4 \times2/3{r4 c8}
+    \times2/3{d4 f8} \times2/3{d4 c8} \times2/3{d4 c8} \times2/3{d4 fis8}
+    \times2/3{d4 c8} \times2/3{d4 ees8} \times2/3{d4 c8} \times2/3{d4 \times2/3{c16 d c}}
   }
   >>
 
-  \midi {\tempo 4=120}
+  \midi {\tempo 4=180}
   \layout { }
 
 }
