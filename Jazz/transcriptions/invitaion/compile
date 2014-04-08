@@ -4,10 +4,10 @@
 if [$@ == ""]
   then
     lilypond *.ly
-    firefox *.pdf &
+    evince *.pdf &
   else
     lilypond "$@".ly   
-    firefox "$@".pdf &
+    evince "$@".pdf &
 fi
 
 #timidity "$@".midi
