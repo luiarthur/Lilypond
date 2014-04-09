@@ -22,18 +22,42 @@
 
     %c1:m7 | c1:m7 | c1:m7  | c1:m7 |
     %c1:m7 | f1:7  | bes1:7 | bes1:7 |
-    %ees1:m7 | ees1:m7 | ees1:m7 | ees1:m7 | 
-    %ees1:m7 | aes1:7  | des1:7  | des1:7 |
 
-    %cis1:m7 | cis2:m7 fis,2:7.5+ | b1:m7 | b1:m7|
-    %b1:m7 | b2:m7 e2:7.5+ | a1:m7 | a1:m7 |
-    %a1:m7 | a2:m7 d2:7.5+ | g1:m7 | g1:m7 |
+    r1 r1 r1 r1
+    r1 r1 r1 r1
+    r1 r1
+
+    ees1:m7 | ees1:m7 | ees1:m7 | ees1:m7 | 
+    ees1:m7 | aes1:7  | des1:7  | des1:7 |
+
+    cis1:m7 | cis2:m7 fis,2:7.5+ | b1:m7 | b1:m7|
+    b1:m7 | b2:m7 e2:7.5+ | a1:m7 | a1:m7 |
+    a1:m7 | a2:m7 d2:7.5+ | g1:m7 | g1:m7 |
+    ees1:7.5- | ees1:7.5- | d1:7.9- | g1:7.5+ |
+
+    c1:m7 | c1:m7 | c1:m7  | c1:m7 |
+    c1:m7 | f1:7  | bes1:7 | bes1:7 |
+    ees1:m7 | ees1:m7 | b1:7.5- | b1:7.5- |
+    f1:m7.5- | bes:7.9+ | ees1:m7+ | d2:7.9+ g2:7.9+ |
+    
+    r1 r1 r1 r2 
+
+    c1:m7 | c1:m7 | c1:m7  | c1:m7 |
+    c1:m7 | f1:7  | bes1:7 | bes1:7 |
+
+    ees1:m7 | ees1:m7 | ees1:m7 | ees1:m7 | 
+    ees1:m7 | aes1:7  | des1:7  | des1:7 |
+
+    cis1:m7 | cis2:m7 fis,2:7.5+ | b1:m7 | b1:m7|
+    b1:m7 | b2:m7 e2:7.5+ | a1:m7 | a1:m7 |
+    a1:m7 | a2:m7 d2:7.5+ | g1:m7 | g1:m7 |
     %ees1:7.5- | ees1:7.5- | d1:7.9- | g1:7.5+ |
 
     %c1:m7 | c1:m7 | c1:m7  | c1:m7 |
     %c1:m7 | f1:7  | bes1:7 | bes1:7 |
     %ees1:m7 | ees1:m7 | b1:7.5- | b1:7.5- |
     %f1:m7.5- | bes:7.9+ | ees1:m7+ | d2:7.9+ g2:7.9+ |
+ 
   }
 
   \relative c'{ 
