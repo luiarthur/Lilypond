@@ -93,9 +93,10 @@
     %\break
     %\times2/3{g bes e,}\times2/3{e g c,}\times2/3{d fis b,}\times2/3{e gis c,}
     \times2/3{fis8 ais d,}\times2/3{d fis b,}\times2/3{r4 bes8}\times2/3{des 4 f8}
-    \times2/3{aes4 aes16 ges}\times2/3{f4 ges8}\times2/3{bes4 des8} 
-      \times2/3{f4 fis16 g} 
-    \times2/3{aes4 f8}
+    \times2/3{aes4 aes16 ges}\times2/3{f4 ges8}\times2/3{bes4 des8} f16 fis g aes
+    \times2/3{f4 ges8}\times2/3{bes,4 des8}\times2/3{f4 ees16 des}\times2/3{ces4 a8}
+    \times2/3{aes4 ges8}\times2/3{f4 ees8}\times2/3{des4 ces8}\times2/3{ees4 ces8}
+    \times2/3{des4 ees8}\times2/3{f4 g8}aes4\times2/3{a,4 bes8}
     
   }
   >>
