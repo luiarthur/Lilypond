@@ -65,7 +65,7 @@
     \jazzOn
 
     r4 r8 \times2/3{r4 d8} f16 ees d ees g b
-    \break
+    %\break
     \times2/3{d4 ees8} \times2/3{d4 c8} \times2/3{b4 d8} \times2/3{f4 aes8} 
     \times2/3{g4 d8} \times2/3{d4 c8} \times2/3{d4 r8} r4 
     \times2/3{r4 d8} \times2/3{ees4 g,8} \times2/3{b4 d8} r4 
@@ -172,7 +172,7 @@
     \times2/3{r4 ees'8}\times2/3{r8 a, f}\times2/3{ees4 des8} r4
     \break
     \times2/3{r4 f'8}\times2/3{ees c g}\times2/3{f4 ees8} r4
-    \times2/3{r4 bes'8}\times2/3{aes ees c}\times2/3{bes4 aes8}\times2/3{r4 ees''8}
+    \times2/3{r4 bes''8}\times2/3{aes ees c}\times2/3{bes4 aes8}\times2/3{r4 ees''8}
     \times2/3{d des c}\times2/3{b4 aes8}\times2/3{g4 fis8}\times2/3{f4 e8}
     \times2/3{ees4 g8}\times2/3{d4 g8}\times2/3{d4 c8} r4
     \break
@@ -196,10 +196,10 @@
     \times2/3{ees e f} \times2/3{d4 cis8}\times2/3{c4 b8}\times2/3{bes4 g8}
     \times2/3{aes4 bes8} \times2/3{c4 d8}\times2/3{e4 g8}\times2/3{bes4 aes8}
     \break
-    %\times2/3{ees4 b8} \times2/3{bes4 aes8}\times2/3{g4 f8} r4 
-    %r4 \times2/3{r4 d8}\times2/3{d4 c8}\times2/3{d4 c8}
-    %\times2/3{g4 ees8} \times2/3{bes'4 aes8} \times2/3{g4 f8} \times2/3{ees4 c8} 
-    %\times2/3{d4 ees8}\times2/3{g4 d'8} a2
+    \times2/3{ees4 b8} \times2/3{bes4 aes8}\times2/3{g4 f8} r4 
+    r4 \times2/3{r4 d'8}\times2/3{d4 c8}\times2/3{d4 c8}
+    \times2/3{g4 ees8} \times2/3{bes'4 aes8} \times2/3{g4 f8} \times2/3{ees4 c8} 
+    \times2/3{d4 ees8}\times2/3{g4 d'8} a2
   }
   >>
 
