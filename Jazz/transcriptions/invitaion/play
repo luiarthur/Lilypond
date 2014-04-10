@@ -2,8 +2,8 @@
 
 if [$@ == ""]
   then
-    timidity *.midi
+    timidity *.midi &
   else
-    timidity "$@".midi
+    timidity "$@".midi &
 fi
 
