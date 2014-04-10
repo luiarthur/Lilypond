@@ -172,33 +172,34 @@
     \times2/3{r4 ees'8}\times2/3{r8 a, f}\times2/3{ees4 des8} r4
     \break
     \times2/3{r4 f'8}\times2/3{ees c g}\times2/3{f4 ees8} r4
-    \times2/3{r4 ees''8}\times2/3{d des c}\times2/3{b4 g8}\times2/3{f4 e8}
+    \times2/3{r4 bes'8}\times2/3{aes ees c}\times2/3{bes4 aes8}\times2/3{r4 ees''8}
+    \times2/3{d des c}\times2/3{b4 aes8}\times2/3{g4 fis8}\times2/3{f4 e8}
     \times2/3{ees4 g8}\times2/3{d4 g8}\times2/3{d4 c8} r4
-    \times2/3{r4 g8}\times2/3{c4 g'8}\times2/3{c,4 b8} r4
     \break
+    \times2/3{r4 g8}\times2/3{c4 g'8}\times2/3{c,4 b8} r4
     \times2/3{r4 g8}\times2/3{b4 g'8}\times2/3{b,4 g8}\times2/3{bes4 g'8}
     \times2/3{bes,4 a8} r4 \times2/3{r4 g8} \times2/3{aes4 g'8}
     \times2/3{a,4 g8} r4 \times2/3{r4 g8}\times2/3{d'4 g8}
-    \times2/3{cis,4 fis,8} r4 \times2/3{r4 fis8} \times2/3{cis'4 fis8}
     \break
+    \times2/3{cis,4 fis,8} r4 \times2/3{r4 fis8} \times2/3{cis'4 fis8}
     \times2/3{f4 f,8} \times2/3{c'4 f8} \times2/3{e4 e,8} \times2/3{b'4 e8}
     \times2/3{d4 d,8}\times2/3{a'4 d8} \times2/3{cis4 cis,8} r4
     r4 \times2/3{c8 f c'}\times2/3{bes4 c,8}\times2/3{aes'4 f8}
-    \times2/3{g4 d8}\times2/3{f4 ees8}\times2/3{des4 bes8} \times2/3{ges8 r4}
     \break
+    \times2/3{g4 d8}\times2/3{f4 ees8}\times2/3{des4 bes8} \times2/3{ges8 r4}
     \times2/3{r4<cis'gis'>8}\times2/3{fis cis a}\times2/3{gis4 g8}\times2/3{fis4 f8}
     \times2/3{ees4 des8}\times2/3{ces4 bes8}\times2/3{aes4 g8}\times2/3{bes4 g8}
     \times2/3{aes4 bes8}\times2/3{b4 ees8}\times2/3{ges4 bes8}\times2/3{r4 des8}
-    \times2/3{b fis d}\times2/3{cis4 b8}\times2/3{bes4 aes8} r4 
     \break
+    \times2/3{b fis d}\times2/3{cis4 b8}\times2/3{bes4 aes8} r4 
     r4 \times2/3{r4 bes8}\times2/3{b4 c8}\times2/3{cis4 d8}
     \times2/3{ees e f} \times2/3{d4 cis8}\times2/3{c4 b8}\times2/3{bes4 g8}
     \times2/3{aes4 bes8} \times2/3{c4 d8}\times2/3{e4 g8}\times2/3{bes4 aes8}
-    \times2/3{des4 b8} \times2/3{bes4 aes8}\times2/3{g4 f8} r4 
     \break
-    r4 \times2/3{r4 d8}\times2/3{d4 c8}\times2/3{d4 c8}
-    \times2/3{g4 ees8} \times2/3{bes'4 aes8} \times2/3{g4 f8} \times2/3{ees4 c8} 
-    \times2/3{d4 ees8}\times2/3{g4 d'8} a2
+    %\times2/3{ees4 b8} \times2/3{bes4 aes8}\times2/3{g4 f8} r4 
+    %r4 \times2/3{r4 d8}\times2/3{d4 c8}\times2/3{d4 c8}
+    %\times2/3{g4 ees8} \times2/3{bes'4 aes8} \times2/3{g4 f8} \times2/3{ees4 c8} 
+    %\times2/3{d4 ees8}\times2/3{g4 d'8} a2
   }
   >>
 
