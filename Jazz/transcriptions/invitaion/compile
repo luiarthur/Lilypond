@@ -1,13 +1,13 @@
 #!/bin/bash
 
-
 if [$@ == ""]
   then
-    lilypond *.ly
-    evince *.pdf &
+    stuff="*"
   else
-    lilypond "$@".ly   
-    evince "$@".pdf &
+    stuff="$@"
 fi
+
+`lilypond $stuff.ly`
+`evince $stuff.pdf &`
 
 #timidity "$@".midi
