@@ -1,4 +1,4 @@
-% \version "2.16.1"
+\version "2.16.1"
 \include "LilyJAZZ.ily"   % Jazz package
 
 % Example: 
