@@ -1,5 +1,5 @@
-% \version "2.16.1"
-\include "LilyJAZZ.ily"   % Jazz package
+\version "2.18.2"
+\require "lilyjazz"   % Jazz package
 
 % Example: 
 % musicA = \relative c' { r4 f4 f4 e4 | e1 | } 
