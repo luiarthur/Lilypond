@@ -1,4 +1,4 @@
-% \version "2.16.1"
+\version "2.18.2"
 \require "lilyjazz"
 
 % Example: 
@@ -88,5 +88,4 @@
 
   \midi { }
   \layout { }
-
 }
