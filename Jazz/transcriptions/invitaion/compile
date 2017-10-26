@@ -8,6 +8,5 @@ if [$@ == ""]
 fi
 
 `lilypond $stuff.ly`
-`evince $stuff.pdf &`
 
 #timidity "$@".midi
