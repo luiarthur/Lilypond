@@ -1,7 +1,7 @@
 % Writing Functions in lilypond:
 % http://lilypond.org/doc/v2.16/Documentation/extending-big-page.html#scheme-variables
 % \version "2.16.1"
-\include "LilyJAZZ.ily"   % Jazz package
+\require "lilyjazz"   % Jazz package
 
 % Example: 
 % musicA = \relative c' { r4 f4 f4 e4 | e1 | } 
