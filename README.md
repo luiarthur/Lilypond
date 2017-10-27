@@ -45,5 +45,10 @@ Then comment out the lines
 %chordNameExceptions = #JazzChords	% update the chord exceptions
 ```
 
+## Other Common References
+
+- [Multiple Voices][2]
+
 
 [1]: http://lyp.noteflakes.com/#/
+[2]: http://lilypond.org/doc/v2.18/Documentation/notation/multiple-voices

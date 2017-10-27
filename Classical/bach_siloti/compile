@@ -1,0 +1,5 @@
+#!/bin/bash
+
+lilypond bach_siloti.ly
+
+#timidity bach_siloti.midi
