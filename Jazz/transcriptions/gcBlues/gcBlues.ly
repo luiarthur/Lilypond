@@ -3,9 +3,10 @@
 % \version "2.16.1"
 \require "lilyjazz"   % Jazz package
 
+#(set-global-staff-size 25)
+
 % Example: 
 % musicA = \relative c' { r4 f4 f4 e4 | e1 | } 
-
 \header {
   title = "Gerald Clayton Playing Blues at Junushoff"
   composer = ""

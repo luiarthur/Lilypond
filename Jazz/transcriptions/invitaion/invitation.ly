@@ -6,6 +6,8 @@
 % Example: 
 % musicA = \relative c' { r4 f4 f4 e4 | e1 | } 
 
+#(set-global-staff-size 25)
+
 \header {
   title = "Bill Evans and Eddie Gomez Play Invitation"
   composer = ""
@@ -169,6 +171,7 @@
     \times2/3{c4 d8}\times2/3{ees4 f8}\times2/3{aes4 ges8}\times2/3{f4 ees8}
     \times2/3{d4 bes8}\times2/3{g4 aes8}\times2/3{a4 c8}\times2/3{a4 bes8}
     \times2/3{d4 f8}\times2/3{a4 f8}\times2/3{bes4 f8} r4
+    \ottava #1
     \times2/3{r4 ees'8}\times2/3{r8 a, f}\times2/3{ees4 des8} r4
     \break
     \times2/3{r4 f'8}\times2/3{ees c g}\times2/3{f4 ees8} r4
@@ -184,6 +187,7 @@
     \times2/3{cis,4 fis,8} r4 \times2/3{r4 fis8} \times2/3{cis'4 fis8}
     \times2/3{f4 f,8} \times2/3{c'4 f8} \times2/3{e4 e,8} \times2/3{b'4 e8}
     \times2/3{d4 d,8}\times2/3{a'4 d8} \times2/3{cis4 cis,8} r4
+    \ottava #0
     r4 \times2/3{c8 f c'}\times2/3{bes4 c,8}\times2/3{aes'4 f8}
     \break
     \times2/3{g4 d8}\times2/3{f4 ees8}\times2/3{des4 bes8} \times2/3{ges8 r4}

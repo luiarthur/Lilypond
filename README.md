@@ -31,4 +31,19 @@ For example, installing the package `lilyjazz` can be done as follows:
 lyp install lilyjazz
 ```
 
+## Issues
+
+In the `lilyjazz` package, the chord symbols may not show up properly.
+In that case, go to
+
+`~/.lyp/lilyjazz@X.Y.Z/jazzchords.ly`
+
+Then comment out the lines
+
+```
+%chordRootNamer = #JazzChordNames	% update the chord names
+%chordNameExceptions = #JazzChords	% update the chord exceptions
+```
+
+
 [1]: http://lyp.noteflakes.com/#/
