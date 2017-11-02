@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+if [$@ == ""]
+  then
+    lilypond *.ly
+  else
+    lilypond "$@".ly   
+fi
+
+#timidity "$@".midi
